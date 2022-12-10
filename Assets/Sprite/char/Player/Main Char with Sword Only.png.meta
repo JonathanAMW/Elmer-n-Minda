@@ -1,0 +1,2672 @@
+fileFormatVersion: 2
+guid: a6e701dd24bef494cb4899cd30dd88e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5849067884949183819
+    second: Main Char with Sword Only_0
+  - first:
+      213: -7116999053159499756
+    second: Main Char with Sword Only_1
+  - first:
+      213: -1664546134303235860
+    second: Main Char with Sword Only_2
+  - first:
+      213: -4228039331278575160
+    second: Main Char with Sword Only_3
+  - first:
+      213: 1314447227089419282
+    second: Main Char with Sword Only_4
+  - first:
+      213: 3190643733361393892
+    second: Main Char with Sword Only_5
+  - first:
+      213: -5134085122276830459
+    second: Main Char with Sword Only_6
+  - first:
+      213: 8274096797345551012
+    second: Main Char with Sword Only_7
+  - first:
+      213: 4844748269447953718
+    second: Main Char with Sword Only_8
+  - first:
+      213: -5351645605513003778
+    second: Main Char with Sword Only_9
+  - first:
+      213: 9171380203028524053
+    second: Main Char with Sword Only_10
+  - first:
+      213: 8020531999068414285
+    second: Main Char with Sword Only_11
+  - first:
+      213: 6623038833370466061
+    second: Main Char with Sword Only_12
+  - first:
+      213: 6589689960521824558
+    second: Main Char with Sword Only_13
+  - first:
+      213: -2007883309264386054
+    second: Main Char with Sword Only_14
+  - first:
+      213: -7307877013377729184
+    second: Main Char with Sword Only_15
+  - first:
+      213: 2607659864851893568
+    second: Main Char with Sword Only_16
+  - first:
+      213: 1542774958074080885
+    second: Main Char with Sword Only_17
+  - first:
+      213: -4548504316668833873
+    second: Main Char with Sword Only_18
+  - first:
+      213: -2730703205051083163
+    second: Main Char with Sword Only_19
+  - first:
+      213: -3426997682951664265
+    second: Main Char with Sword Only_20
+  - first:
+      213: 6108892431319161218
+    second: Main Char with Sword Only_21
+  - first:
+      213: -405722802138079728
+    second: Main Char with Sword Only_22
+  - first:
+      213: -2615875798072361134
+    second: Main Char with Sword Only_23
+  - first:
+      213: 4683749288540942043
+    second: Main Char with Sword Only_24
+  - first:
+      213: 8798792446000314800
+    second: Main Char with Sword Only_25
+  - first:
+      213: 1988165829695259614
+    second: Main Char with Sword Only_26
+  - first:
+      213: -3105417738664026740
+    second: Main Char with Sword Only_27
+  - first:
+      213: -6207394841796789423
+    second: Main Char with Sword Only_28
+  - first:
+      213: 2247795091664179897
+    second: Main Char with Sword Only_29
+  - first:
+      213: 6637723922104843994
+    second: Main Char with Sword Only_30
+  - first:
+      213: -1572318715190481700
+    second: Main Char with Sword Only_31
+  - first:
+      213: 3306116836430147676
+    second: Main Char with Sword Only_32
+  - first:
+      213: -5367807070681526962
+    second: Main Char with Sword Only_33
+  - first:
+      213: 4057895427326827052
+    second: Main Char with Sword Only_34
+  - first:
+      213: -7337246233500029782
+    second: Main Char with Sword Only_35
+  - first:
+      213: 245788635938014428
+    second: Main Char with Sword Only_36
+  - first:
+      213: -6050082660783716685
+    second: Main Char with Sword Only_37
+  - first:
+      213: -2627171350012623369
+    second: Main Char with Sword Only_38
+  - first:
+      213: -2845089557473566182
+    second: Main Char with Sword Only_39
+  - first:
+      213: 7434694522913569838
+    second: Main Char with Sword Only_40
+  - first:
+      213: 423732240438334693
+    second: Main Char with Sword Only_41
+  - first:
+      213: 2273017515649596673
+    second: Main Char with Sword Only_42
+  - first:
+      213: 5465125734264689882
+    second: Main Char with Sword Only_43
+  - first:
+      213: 2252408104124517120
+    second: Main Char with Sword Only_44
+  - first:
+      213: -4707486195044044446
+    second: Main Char with Sword Only_45
+  - first:
+      213: 5014328814386775321
+    second: Main Char with Sword Only_46
+  - first:
+      213: 4809880298674083590
+    second: Main Char with Sword Only_47
+  - first:
+      213: 1805073781742386287
+    second: Main Char with Sword Only_48
+  - first:
+      213: -595569500212231627
+    second: Main Char with Sword Only_49
+  - first:
+      213: -6955088118149310342
+    second: Main Char with Sword Only_50
+  - first:
+      213: 1015770339049900908
+    second: Main Char with Sword Only_51
+  - first:
+      213: -5988853371616058965
+    second: Main Char with Sword Only_52
+  - first:
+      213: 2701167888647153399
+    second: Main Char with Sword Only_53
+  - first:
+      213: -2293194692748082577
+    second: Main Char with Sword Only_54
+  - first:
+      213: -3206669346537360534
+    second: Main Char with Sword Only_55
+  - first:
+      213: 7668407130085960203
+    second: Main Char with Sword Only_56
+  - first:
+      213: -866946544354537751
+    second: Main Char with Sword Only_57
+  - first:
+      213: -7980639701453029006
+    second: Main Char with Sword Only_58
+  - first:
+      213: 5725705208016595402
+    second: Main Char with Sword Only_59
+  - first:
+      213: -7053134810734898534
+    second: Main Char with Sword Only_60
+  - first:
+      213: 4846294365627336918
+    second: Main Char with Sword Only_61
+  - first:
+      213: 4883285832069577798
+    second: Main Char with Sword Only_62
+  - first:
+      213: -4534834714994037474
+    second: Main Char with Sword Only_63
+  - first:
+      213: -1571016536578469610
+    second: Main Char with Sword Only_64
+  - first:
+      213: 2908511861490487947
+    second: Main Char with Sword Only_65
+  - first:
+      213: 5479342325008908699
+    second: Main Char with Sword Only_66
+  - first:
+      213: -7892832519733869041
+    second: Main Char with Sword Only_67
+  - first:
+      213: 2278910655287398487
+    second: Main Char with Sword Only_68
+  - first:
+      213: 1557215394793521529
+    second: Main Char with Sword Only_69
+  - first:
+      213: 7686951253230416633
+    second: Main Char with Sword Only_70
+  - first:
+      213: 8097345574422299156
+    second: Main Char with Sword Only_71
+  - first:
+      213: 4560280506149566941
+    second: Main Char with Sword Only_72
+  - first:
+      213: -634498150743605596
+    second: Main Char with Sword Only_73
+  - first:
+      213: -1899805707357057140
+    second: Main Char with Sword Only_74
+  - first:
+      213: 6135852056518983607
+    second: Main Char with Sword Only_75
+  - first:
+      213: -1289829679182288619
+    second: Main Char with Sword Only_76
+  - first:
+      213: 879299254838585909
+    second: Main Char with Sword Only_77
+  - first:
+      213: 2545054379888740528
+    second: Main Char with Sword Only_78
+  - first:
+      213: -8793161584736231331
+    second: Main Char with Sword Only_79
+  - first:
+      213: -2236764014222642221
+    second: Main Char with Sword Only_80
+  - first:
+      213: -5694710853476633910
+    second: Main Char with Sword Only_81
+  - first:
+      213: 7604190058835368935
+    second: Main Char with Sword Only_82
+  - first:
+      213: -9178756451541969866
+    second: Main Char with Sword Only_83
+  - first:
+      213: -6540318463142027912
+    second: Main Char with Sword Only_84
+  - first:
+      213: 5742033777776635743
+    second: Main Char with Sword Only_85
+  - first:
+      213: -8029250909393286629
+    second: Main Char with Sword Only_86
+  - first:
+      213: -3576596305233115999
+    second: Main Char with Sword Only_87
+  - first:
+      213: -4525909508994560836
+    second: Main Char with Sword Only_88
+  - first:
+      213: -5248771550046742081
+    second: Main Char with Sword Only_89
+  - first:
+      213: 7328952594230752485
+    second: Main Char with Sword Only_90
+  - first:
+      213: -88150656960708059
+    second: Main Char with Sword Only_91
+  - first:
+      213: 2403458885847395232
+    second: Main Char with Sword Only_92
+  - first:
+      213: 4967572144316581305
+    second: Main Char with Sword Only_93
+  - first:
+      213: 1812823134357101542
+    second: Main Char with Sword Only_94
+  - first:
+      213: 8500661086028635095
+    second: Main Char with Sword Only_95
+  - first:
+      213: 1754806525531941202
+    second: Main Char with Sword Only_96
+  - first:
+      213: -5733649595379068520
+    second: Main Char with Sword Only_97
+  - first:
+      213: -2483665371027543553
+    second: Main Char with Sword Only_98
+  - first:
+      213: 8592234544379426003
+    second: Main Char with Sword Only_99
+  - first:
+      213: -4602768493457593565
+    second: Main Char with Sword Only_100
+  - first:
+      213: 3497822797941536295
+    second: Main Char with Sword Only_101
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 13
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Main Char with Sword Only_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b265729fbfe3dea0800000000000000
+      internalID: -5849067884949183819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 450
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418f2a191175b3d90800000000000000
+      internalID: -7116999053159499756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 450
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce02b982c1856e8e0800000000000000
+      internalID: -1664546134303235860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 450
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9a2ca11acf255c0800000000000000
+      internalID: -4228039331278575160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 450
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c79aee9cadd3210800000000000000
+      internalID: 1314447227089419282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e005db1291774c20800000000000000
+      internalID: 3190643733361393892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 425
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503521868c010c8b0800000000000000
+      internalID: -5134085122276830459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 425
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a29afaf23f73d270800000000000000
+      internalID: 8274096797345551012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 425
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.64, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d32aae1e00c3340800000000000000
+      internalID: 4844748269447953718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 425
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.64, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcfd9f0da22bb5b0800000000000000
+      internalID: -5351645605513003778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 425
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.64, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ca09dd3b9474f70800000000000000
+      internalID: 9171380203028524053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 425
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41602acb57ae4f60800000000000000
+      internalID: 8020531999068414285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d070aa48ab2c9eb50800000000000000
+      internalID: 6623038833370466061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 400
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e297cdcfa18437b50800000000000000
+      internalID: 6589689960521824558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 400
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af74cd8b4c09224e0800000000000000
+      internalID: -2007883309264386054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 400
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.68, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06db06b3394359a90800000000000000
+      internalID: -7307877013377729184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 400
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.68, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d4a83c4d4403420800000000000000
+      internalID: 2607659864851893568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 400
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.68, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eaf5086a9096510800000000000000
+      internalID: 1542774958074080885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf8f994c6770e0c0800000000000000
+      internalID: -4548504316668833873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_19
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 375
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566d8e327e79a1ad0800000000000000
+      internalID: -2730703205051083163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d449da3cbd070d0800000000000000
+      internalID: -3426997682951664265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 350
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289d9dbcc4527c450800000000000000
+      internalID: 6108892431319161218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 350
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e9845d2459e5af0800000000000000
+      internalID: -405722802138079728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 350
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ffa5732da82bbd0800000000000000
+      internalID: -2615875798072361134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 350
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdea8709925000140800000000000000
+      internalID: 4683749288540942043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 350
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b93d349c179b1a70800000000000000
+      internalID: 8798792446000314800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed34e81d942679b10800000000000000
+      internalID: 1988165829695259614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_27
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 325
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ddbb7150757e4d0800000000000000
+      internalID: -3105417738664026740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_28
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 325
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b3c129747ead9a0800000000000000
+      internalID: -6207394841796789423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 325
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2928ef9b5c13f10800000000000000
+      internalID: 2247795091664179897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 325
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adefb2e2dbeed1c50800000000000000
+      internalID: 6637723922104843994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 325
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc6f5385700e2ae0800000000000000
+      internalID: -1572318715190481700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c507b550fbfa1ed20800000000000000
+      internalID: 3306116836430147676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_33
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 300
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d8239b8e7b185b0800000000000000
+      internalID: -5367807070681526962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a5f79346a805830800000000000000
+      internalID: 4057895427326827052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_35
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 275
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac68aecc6ddc2a90800000000000000
+      internalID: -7337246233500029782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_36
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 275
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4c9ee4677396300800000000000000
+      internalID: 245788635938014428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 275
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b68c3eefd9c90ca0800000000000000
+      internalID: -6050082660783716685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 275
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f50a6693996a8bd0800000000000000
+      internalID: -2627171350012623369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a126d941f163488d0800000000000000
+      internalID: -2845089557473566182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_40
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 250
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c3ec327475d2760800000000000000
+      internalID: 7434694522913569838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_41
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 250
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e415374a3661e500800000000000000
+      internalID: 423732240438334693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_42
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 250
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10df88433616b8f10800000000000000
+      internalID: 2273017515649596673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_43
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 250
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad451bb56e608db40800000000000000
+      internalID: 5465125734264689882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b8d87ac39224f10800000000000000
+      internalID: 2252408104124517120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_45
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 225
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26138573f36abaeb0800000000000000
+      internalID: -4707486195044044446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_46
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 225
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91587885d79769540800000000000000
+      internalID: 5014328814386775321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 225
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6075e96d5a020c240800000000000000
+      internalID: 4809880298674083590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c30227a09ec0910800000000000000
+      internalID: 1805073781742386287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_49
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 200
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5320bcce1bc1cb7f0800000000000000
+      internalID: -595569500212231627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 200
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a789b28c4309a7f90800000000000000
+      internalID: -6955088118149310342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_51
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 200
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b8278ddbdb81e00800000000000000
+      internalID: 1015770339049900908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1acecb69153eca0800000000000000
+      internalID: -5988853371616058965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_53
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 175
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6618122e97c7520800000000000000
+      internalID: 2701167888647153399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_54
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 175
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6280f9a39fec20e0800000000000000
+      internalID: -2293194692748082577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_55
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 175
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63b18f083f9f73d0800000000000000
+      internalID: -3206669346537360534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_56
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 175
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0aa8d5e7a7ab6a60800000000000000
+      internalID: 7668407130085960203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_57
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 175
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eece7016bcf7f3f0800000000000000
+      internalID: -866946544354537751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271438a89721f3190800000000000000
+      internalID: -7980639701453029006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_59
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 150
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9ee64fc8ac57f40800000000000000
+      internalID: 5725705208016595402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_60
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 150
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92543d324b3e1e90800000000000000
+      internalID: -7053134810734898534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 150
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8c13c7c0f714340800000000000000
+      internalID: 4846294365627336918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_62
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 150
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c743d679ae4c340800000000000000
+      internalID: 4883285832069577798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_63
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 150
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1daba17ad70111c0800000000000000
+      internalID: -4534834714994037474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611d9f898c0a23ae0800000000000000
+      internalID: -1571016536578469610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_65
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 125
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b829629c02c1d5820800000000000000
+      internalID: 2908511861490487947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_66
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 125
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b914be450d88a0c40800000000000000
+      internalID: 5479342325008908699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_67
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 125
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f068c9d24a6077290800000000000000
+      internalID: -7892832519733869041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7501243ba2150af10800000000000000
+      internalID: 2278910655287398487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_69
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 100
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971007da6275c9510800000000000000
+      internalID: 1557215394793521529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_70
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 100
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2fa8600798daa60800000000000000
+      internalID: 7686951253230416633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_71
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 100
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412c50bf5ec8f5070800000000000000
+      internalID: 8097345574422299156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9fe2d75fe594f30800000000000000
+      internalID: 4560280506149566941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_73
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 75
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aef84a2b4fc137f0800000000000000
+      internalID: -634498150743605596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_74
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 75
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f09b656c882a5e0800000000000000
+      internalID: -1899805707357057140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_75
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 75
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bff92fafece62550800000000000000
+      internalID: 6135852056518983607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_76
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 75
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51965979dba991ee0800000000000000
+      internalID: -1289829679182288619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_77
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 75
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a6be77306e33c00800000000000000
+      internalID: 879299254838585909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b802576979d15320800000000000000
+      internalID: 2545054379888740528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_79
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 50
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50af29702a68f580800000000000000
+      internalID: -8793161584736231331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_80
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 50
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3f1eddafa65f0e0800000000000000
+      internalID: -2236764014222642221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_81
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 50
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2b6ff86a258f0b0800000000000000
+      internalID: -5694710853476633910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_82
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 50
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb507dd192878960800000000000000
+      internalID: 7604190058835368935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_83
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 50
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634140273a18e9080800000000000000
+      internalID: -9178756451541969866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d9d76820f1c35a0800000000000000
+      internalID: -6540318463142027912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_85
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 25
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fabac5c4dcfaf40800000000000000
+      internalID: 5742033777776635743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_86
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 25
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a8125b6de529090800000000000000
+      internalID: -8029250909393286629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_87
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 25
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a40b992c906d5ec0800000000000000
+      internalID: -3576596305233115999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_88
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 25
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc01d6e74db031c0800000000000000
+      internalID: -4525909508994560836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_89
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 25
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9994c951e9827b0800000000000000
+      internalID: -5248771550046742081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_90
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 25
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e43dc2dd8ba5b560800000000000000
+      internalID: 7328952594230752485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_91
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 25
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522c32dc173d6cef0800000000000000
+      internalID: -88150656960708059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_92
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 25
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aba0336f1dca5120800000000000000
+      internalID: 2403458885847395232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b58d12cb8c50f440800000000000000
+      internalID: 4967572144316581305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_94
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb17f33901782910800000000000000
+      internalID: 1812823134357101542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_95
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db19b4283a68f570800000000000000
+      internalID: 8500661086028635095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_96
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2596ed3dc335a5810800000000000000
+      internalID: 1754806525531941202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_97
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8915ed8321cfd60b0800000000000000
+      internalID: -5733649595379068520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_98
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9e6fa018f388dd0800000000000000
+      internalID: -2483665371027543553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_99
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d473946bcfbd3770800000000000000
+      internalID: 8592234544379426003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_100
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ba914117eaf10c0800000000000000
+      internalID: -4602768493457593565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Char with Sword Only_101
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726719e6d43ca8030800000000000000
+      internalID: 3497822797941536295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Main Char with Sword Only_30: 6637723922104843994
+      Main Char with Sword Only_12: 6623038833370466061
+      Main Char with Sword Only_49: -595569500212231627
+      Main Char with Sword Only_34: 4057895427326827052
+      Main Char with Sword Only_58: -7980639701453029006
+      Main Char with Sword Only_95: 8500661086028635095
+      Main Char with Sword Only_79: -8793161584736231331
+      Main Char with Sword Only_8: 4844748269447953718
+      Main Char with Sword Only_88: -4525909508994560836
+      Main Char with Sword Only_55: -3206669346537360534
+      Main Char with Sword Only_80: -2236764014222642221
+      Main Char with Sword Only_3: -4228039331278575160
+      Main Char with Sword Only_7: 8274096797345551012
+      Main Char with Sword Only_20: -3426997682951664265
+      Main Char with Sword Only_39: -2845089557473566182
+      Main Char with Sword Only_17: 1542774958074080885
+      Main Char with Sword Only_0: -5849067884949183819
+      Main Char with Sword Only_47: 4809880298674083590
+      Main Char with Sword Only_68: 2278910655287398487
+      Main Char with Sword Only_57: -866946544354537751
+      Main Char with Sword Only_83: -9178756451541969866
+      Main Char with Sword Only_26: 1988165829695259614
+      Main Char with Sword Only_67: -7892832519733869041
+      Main Char with Sword Only_85: 5742033777776635743
+      Main Char with Sword Only_11: 8020531999068414285
+      Main Char with Sword Only_90: 7328952594230752485
+      Main Char with Sword Only_29: 2247795091664179897
+      Main Char with Sword Only_70: 7686951253230416633
+      Main Char with Sword Only_19: -2730703205051083163
+      Main Char with Sword Only_60: -7053134810734898534
+      Main Char with Sword Only_84: -6540318463142027912
+      Main Char with Sword Only_101: 3497822797941536295
+      Main Char with Sword Only_48: 1805073781742386287
+      Main Char with Sword Only_38: -2627171350012623369
+      Main Char with Sword Only_21: 6108892431319161218
+      Main Char with Sword Only_53: 2701167888647153399
+      Main Char with Sword Only_45: -4707486195044044446
+      Main Char with Sword Only_75: 6135852056518983607
+      Main Char with Sword Only_2: -1664546134303235860
+      Main Char with Sword Only_56: 7668407130085960203
+      Main Char with Sword Only_15: -7307877013377729184
+      Main Char with Sword Only_92: 2403458885847395232
+      Main Char with Sword Only_9: -5351645605513003778
+      Main Char with Sword Only_64: -1571016536578469610
+      Main Char with Sword Only_32: 3306116836430147676
+      Main Char with Sword Only_14: -2007883309264386054
+      Main Char with Sword Only_10: 9171380203028524053
+      Main Char with Sword Only_23: -2615875798072361134
+      Main Char with Sword Only_46: 5014328814386775321
+      Main Char with Sword Only_74: -1899805707357057140
+      Main Char with Sword Only_28: -6207394841796789423
+      Main Char with Sword Only_24: 4683749288540942043
+      Main Char with Sword Only_51: 1015770339049900908
+      Main Char with Sword Only_37: -6050082660783716685
+      Main Char with Sword Only_5: 3190643733361393892
+      Main Char with Sword Only_98: -2483665371027543553
+      Main Char with Sword Only_13: 6589689960521824558
+      Main Char with Sword Only_41: 423732240438334693
+      Main Char with Sword Only_22: -405722802138079728
+      Main Char with Sword Only_59: 5725705208016595402
+      Main Char with Sword Only_1: -7116999053159499756
+      Main Char with Sword Only_35: -7337246233500029782
+      Main Char with Sword Only_4: 1314447227089419282
+      Main Char with Sword Only_36: 245788635938014428
+      Main Char with Sword Only_76: -1289829679182288619
+      Main Char with Sword Only_43: 5465125734264689882
+      Main Char with Sword Only_16: 2607659864851893568
+      Main Char with Sword Only_81: -5694710853476633910
+      Main Char with Sword Only_63: -4534834714994037474
+      Main Char with Sword Only_18: -4548504316668833873
+      Main Char with Sword Only_52: -5988853371616058965
+      Main Char with Sword Only_99: 8592234544379426003
+      Main Char with Sword Only_77: 879299254838585909
+      Main Char with Sword Only_97: -5733649595379068520
+      Main Char with Sword Only_25: 8798792446000314800
+      Main Char with Sword Only_82: 7604190058835368935
+      Main Char with Sword Only_33: -5367807070681526962
+      Main Char with Sword Only_66: 5479342325008908699
+      Main Char with Sword Only_78: 2545054379888740528
+      Main Char with Sword Only_89: -5248771550046742081
+      Main Char with Sword Only_100: -4602768493457593565
+      Main Char with Sword Only_72: 4560280506149566941
+      Main Char with Sword Only_73: -634498150743605596
+      Main Char with Sword Only_27: -3105417738664026740
+      Main Char with Sword Only_54: -2293194692748082577
+      Main Char with Sword Only_44: 2252408104124517120
+      Main Char with Sword Only_31: -1572318715190481700
+      Main Char with Sword Only_61: 4846294365627336918
+      Main Char with Sword Only_65: 2908511861490487947
+      Main Char with Sword Only_91: -88150656960708059
+      Main Char with Sword Only_94: 1812823134357101542
+      Main Char with Sword Only_71: 8097345574422299156
+      Main Char with Sword Only_62: 4883285832069577798
+      Main Char with Sword Only_93: 4967572144316581305
+      Main Char with Sword Only_42: 2273017515649596673
+      Main Char with Sword Only_87: -3576596305233115999
+      Main Char with Sword Only_96: 1754806525531941202
+      Main Char with Sword Only_6: -5134085122276830459
+      Main Char with Sword Only_86: -8029250909393286629
+      Main Char with Sword Only_40: 7434694522913569838
+      Main Char with Sword Only_50: -6955088118149310342
+      Main Char with Sword Only_69: 1557215394793521529
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

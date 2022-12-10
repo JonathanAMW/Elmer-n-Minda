@@ -1,0 +1,1970 @@
+fileFormatVersion: 2
+guid: 7039f8c2dae44644c936f351b7112077
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3920
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369e28d112b03bb4baf70ff224c87a9d
+      internalID: 1765992131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_1
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 3920
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5776fa35d6c07a45a5d05a450d22058
+      internalID: -1945328918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_2
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 3920
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f01b452c4f45b4c8339912f4fedefe
+      internalID: -1277257308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_3
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3920
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6579a611aa00a647847e525a42a12d0
+      internalID: 9973290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_4
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3920
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a273083917ab543bd3c3f5d0b97ac7
+      internalID: -2019588063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_5
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3920
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff5ff04df979bc4ca70ca018102815e
+      internalID: 1066335055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_6
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3920
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d860c7e2dfde3e147a6d0245b55fb7ed
+      internalID: -506903460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_7
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 3920
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24fb3f98ffc73b469f51033f8747a41
+      internalID: 806911035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_8
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 3920
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feca733ced2ba6488607cd89d312da1
+      internalID: -1293965405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_9
+      rect:
+        serializedVersion: 2
+        x: 6160
+        y: 3920
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f16ca74f92bf2d4fb0f735e051dd5c9
+      internalID: -1194978053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3e6d86ec3a8ca408af4154f834e3f5
+      internalID: -794500358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 3360
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbb8af6f050a1740be8e588c2fbf25e
+      internalID: 375818165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_12
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 3360
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d051b4e904fd04bb8044466b33b27f
+      internalID: 263424977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_13
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3360
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0659feadf58394e8dcf702fc0b9d30
+      internalID: 233029369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_14
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3360
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a0aee2c6a4b264fabfe941146482b3
+      internalID: -16746338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_15
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3360
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b377ae8fd31114199f18302419bda5
+      internalID: -1752527612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_16
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3360
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf3afe2e2f2b384c8dfaf56f85a2692
+      internalID: 382276643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_17
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 3360
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10260b6e6110d6b449624f299a4a6353
+      internalID: 134302310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_18
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3360
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a569788b6368ac4598f7290f1a1f5e8
+      internalID: -1911813568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_19
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 3360
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0e469c63c9cdc48bb3691e5d505c87
+      internalID: 100985276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_20
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 3360
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e143aa3357f39b41ab94cda21c4e632
+      internalID: -591521871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_21
+      rect:
+        serializedVersion: 2
+        x: 6160
+        y: 3360
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb38bd14a5a1b84d81a311d6669622d
+      internalID: 1979179765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6237a84dc29c6134ab9b53273a0e3108
+      internalID: 1203268931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2800
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07a89115a2773d4b91a8da225e5e850
+      internalID: -2115889655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_24
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2800
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dd902db6937324393cef36a488176d
+      internalID: -100200218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_25
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2800
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e07c68f9d014a4091b3b9735b9ddd8
+      internalID: -1875250975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_26
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2800
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475ce0f8f3719c3488ebe3b644dda84a
+      internalID: -2059195665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_27
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2800
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb656e3ea208d54d9b6af008288508a
+      internalID: -475585791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_28
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2800
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259cef2d2da41174ab8ba5a41cf11cee
+      internalID: -166992517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_29
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 2800
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1857a30023eb5409b3c6f99fcc27b5
+      internalID: 121989681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_30
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2800
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590ae4f40d916bf408fbad6bd9cd9109
+      internalID: 204812148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_31
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 2800
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbeb3d82e65b6ef4997181d8e4c198fa
+      internalID: 205876334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_32
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2800
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37585c14cea218541aa554817ef9a930
+      internalID: 1857798689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_33
+      rect:
+        serializedVersion: 2
+        x: 6160
+        y: 2800
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb18a39f5ca14346850770929245a20
+      internalID: 1148266840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac15b4626b31e564591bf02ecc9497ea
+      internalID: -199524751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_35
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2240
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa85a09faa83fa4bac2dc25e9faafe7
+      internalID: 151865551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_36
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2240
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654511aa85059564b85fbada2c7ddd39
+      internalID: 1865344835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_37
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2240
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22462c4f616199c4ba6ce071b3a91182
+      internalID: 515103632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_38
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2240
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1492f0983d730df47a2466be973d9194
+      internalID: -37866924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_39
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2240
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e77b73f91899343b7d9403a4980fc4
+      internalID: 2032247720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_40
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2240
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb79a41fa90fa64dad9c078e849bfc7
+      internalID: 1346935687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_41
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 2240
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acebc68c1f3df743a76f337e32d8748
+      internalID: -1666908064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_42
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2240
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c07deb6e1243f4c968238a92d25061
+      internalID: 617396523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_43
+      rect:
+        serializedVersion: 2
+        x: 6160
+        y: 2240
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e60de4e2202e648b644c9b49998f17
+      internalID: -1327948390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc858f2076ef334ba0c8acec87b630b
+      internalID: -1707888479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_45
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989a61f1647947541afb441d1ab3e085
+      internalID: 1547020191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_46
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3053dee901a8bc5449da2da9f36c7134
+      internalID: -132621204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_47
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16b204cf60ef974fb9be97cc97e2c26
+      internalID: -28601986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_48
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e23f10b1e599e4381906a80c9b2fe6
+      internalID: -967275951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_49
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 1680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bd8f12200445b4c869cba988f5f24f
+      internalID: -1411040549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_50
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efb7c55ac5dfaa429f8c989e17fd7b8
+      internalID: 1013563723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_51
+      rect:
+        serializedVersion: 2
+        x: 6160
+        y: 1680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f16b86f6617c8843a892e32bbadbfae
+      internalID: 353796303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7b1c369c80cd345afdae4310be79b4
+      internalID: -1828797746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_53
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3e5bb2a4d65ae419fdd9b07bead517
+      internalID: 1395733124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_54
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ffc7450e9fbf741983a6ec3b5568cb
+      internalID: 1583317129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_55
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc0946ae74eab44e9ec03ce1c44b750
+      internalID: 1916506402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_56
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b19752c5bf4a714685f1dff66c65ccd
+      internalID: 91142320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_57
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e541071a1ec7924394288f5bc60e116
+      internalID: 665292074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_58
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7680f3d64983eed41bc9dcd9dd86aa6a
+      internalID: -1233628425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_59
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 1120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb0ee86526335843984f77acc23df54
+      internalID: -138690112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_60
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695ee6491c6147a47bc8be683c42005a
+      internalID: -1125406889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_61
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 1120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e37d2fed53a4da4a991db712c691f9b
+      internalID: -2145686963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_62
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e4a8fbeb22f0d4badfeafd27d06a6f
+      internalID: -58910065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_63
+      rect:
+        serializedVersion: 2
+        x: 6160
+        y: 1120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fc6db75afc95541bc678c36934fbee
+      internalID: 960272464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351683598cd2f9048914525f353feb2f
+      internalID: 1337120188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_65
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff98abb08e9a134aa4da1f3c43cff9e
+      internalID: -339538952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_66
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783ae6140bda1a94a8f15093c2127fde
+      internalID: 1261820941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_67
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe095d8ab803c249b6075aaec236427
+      internalID: 685859504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_68
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c1aa530203ba04bb64ff5dedaa7b61
+      internalID: -1585961768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_69
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba30f851516744a4aa247a622c105c56
+      internalID: 432913994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_70
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78404a30f976ee4d8ffee995cc8faa6
+      internalID: 494305557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_71
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf6fdb62e9f66d4594425d67003c267
+      internalID: 2008921624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_72
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e30ba161a2b14478cdcb223c62cb7f
+      internalID: -322091896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_73
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b29c36ac9b63940b1bbf6ea925e2ab
+      internalID: 2038338968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_74
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89be82c41da184478c1ae582afbcc4d
+      internalID: -949369501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_75
+      rect:
+        serializedVersion: 2
+        x: 6160
+        y: 560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1188f24a000f37e48bd280a6e90acc9d
+      internalID: -2144136067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d376b718842ec1d41944df4825fc0577
+      internalID: -1628830864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_77
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231094577c37164439ebd0fa49702086
+      internalID: 2119621425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_78
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d901654cfe5952469b2d93dd0c4f754
+      internalID: -557343610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_79
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce29b88a3ebadf429125116d935a524
+      internalID: 746932514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_80
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98194abedcd7f54598787710d811edc
+      internalID: -467483943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_81
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1f45515a871d349bb0371d6875af1d
+      internalID: 1068226378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_82
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd7e5e9cc29db14cb94f54943203c53
+      internalID: -896189783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset lagi lagi (2)_83
+      rect:
+        serializedVersion: 2
+        x: 6160
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d826d06dad1d1034494a587d5c19700a
+      internalID: -117177632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tileset lagi lagi (2)_47: -28601986
+      tileset lagi lagi (2)_17: 134302310
+      tileset lagi lagi (2)_70: 494305557
+      tileset lagi lagi (2)_55: 1916506402
+      tileset lagi lagi (2)_79: 746932514
+      tileset lagi lagi (2)_83: -117177632
+      tileset lagi lagi (2)_76: -1628830864
+      tileset lagi lagi (2)_46: -132621204
+      tileset lagi lagi (2)_48: -967275951
+      tileset lagi lagi (2)_10: -794500358
+      tileset lagi lagi (2)_15: -1752527612
+      tileset lagi lagi (2)_19: 100985276
+      tileset lagi lagi (2)_63: 960272464
+      tileset lagi lagi (2)_78: -557343610
+      tileset lagi lagi (2)_25: -1875250975
+      tileset lagi lagi (2)_45: 1547020191
+      tileset lagi lagi (2)_0: 1765992131
+      tileset lagi lagi (2)_74: -949369501
+      tileset lagi lagi (2)_53: 1395733124
+      tileset lagi lagi (2)_24: -100200218
+      tileset lagi lagi (2)_51: 353796303
+      tileset lagi lagi (2)_5: 1066335055
+      tileset lagi lagi (2)_58: -1233628425
+      tileset lagi lagi (2)_31: 205876334
+      tileset lagi lagi (2)_8: -1293965405
+      tileset lagi lagi (2)_57: 665292074
+      tileset lagi lagi (2)_60: -1125406889
+      tileset lagi lagi (2)_75: -2144136067
+      tileset lagi lagi (2)_44: -1707888479
+      tileset lagi lagi (2)_1: -1945328918
+      tileset lagi lagi (2)_18: -1911813568
+      tileset lagi lagi (2)_56: 91142320
+      tileset lagi lagi (2)_11: 375818165
+      tileset lagi lagi (2)_72: -322091896
+      tileset lagi lagi (2)_77: 2119621425
+      tileset lagi lagi (2)_12: 263424977
+      tileset lagi lagi (2)_42: 617396523
+      tileset lagi lagi (2)_49: -1411040549
+      tileset lagi lagi (2)_52: -1828797746
+      tileset lagi lagi (2)_67: 685859504
+      tileset lagi lagi (2)_66: 1261820941
+      tileset lagi lagi (2)_73: 2038338968
+      tileset lagi lagi (2)_30: 204812148
+      tileset lagi lagi (2)_54: 1583317129
+      tileset lagi lagi (2)_34: -199524751
+      tileset lagi lagi (2)_69: 432913994
+      tileset lagi lagi (2)_9: -1194978053
+      tileset lagi lagi (2)_43: -1327948390
+      tileset lagi lagi (2)_3: 9973290
+      tileset lagi lagi (2)_26: -2059195665
+      tileset lagi lagi (2)_81: 1068226378
+      tileset lagi lagi (2)_33: 1148266840
+      tileset lagi lagi (2)_40: 1346935687
+      tileset lagi lagi (2)_20: -591521871
+      tileset lagi lagi (2)_4: -2019588063
+      tileset lagi lagi (2)_35: 151865551
+      tileset lagi lagi (2)_28: -166992517
+      tileset lagi lagi (2)_62: -58910065
+      tileset lagi lagi (2)_39: 2032247720
+      tileset lagi lagi (2)_22: 1203268931
+      tileset lagi lagi (2)_32: 1857798689
+      tileset lagi lagi (2)_37: 515103632
+      tileset lagi lagi (2)_59: -138690112
+      tileset lagi lagi (2)_21: 1979179765
+      tileset lagi lagi (2)_14: -16746338
+      tileset lagi lagi (2)_65: -339538952
+      tileset lagi lagi (2)_16: 382276643
+      tileset lagi lagi (2)_36: 1865344835
+      tileset lagi lagi (2)_29: 121989681
+      tileset lagi lagi (2)_68: -1585961768
+      tileset lagi lagi (2)_80: -467483943
+      tileset lagi lagi (2)_41: -1666908064
+      tileset lagi lagi (2)_7: 806911035
+      tileset lagi lagi (2)_2: -1277257308
+      tileset lagi lagi (2)_71: 2008921624
+      tileset lagi lagi (2)_82: -896189783
+      tileset lagi lagi (2)_50: 1013563723
+      tileset lagi lagi (2)_38: -37866924
+      tileset lagi lagi (2)_61: -2145686963
+      tileset lagi lagi (2)_64: 1337120188
+      tileset lagi lagi (2)_23: -2115889655
+      tileset lagi lagi (2)_27: -475585791
+      tileset lagi lagi (2)_6: -506903460
+      tileset lagi lagi (2)_13: 233029369
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

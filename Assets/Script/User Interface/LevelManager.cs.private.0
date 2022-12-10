@@ -1,0 +1,55 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class LevelManager : MonoBehaviour
+{
+	[Header("Pengaturan Level")]
+	[SerializeField] bool isLvlSelesai;
+	[SerializeField] float waktuLevel;
+
+	[Header("Untuk Tantangan")]
+	public KondisiTantangan kondisiTantangan;
+	[SerializeField] int bnykMati, kondisiBnykMati;
+
+	[Header("Referensi")]
+	[SerializeField] UIManager m_uimanager;
+
+	[Header("Info level")]
+	[SerializeField]int levelSekarang;
+	[SerializeField]int duniaSekarang;
+	
+	public void LevelSelesai()
+	{
+		m_uimanager.finishUI.SetActive(true);
+		
+		if(!kondisiTantangan.isKenaHit)
+			m_uimanager.gmbrBintang.sprite = m_uimanager.gmbrDptBintang;
+	}
+
+	public void GantiScene(int scene)
+	{
+		SceneManager.LoadScene(scene);
+		Simpan();
+	}
+
+	void Simpan()
+	{
+		SistemTantangan m_sistemTantangan = GameObject.Find("Data Tantangan").GetComponent<SistemTantangan>();
+		if(!kondisiTantangan.isKenaHit)
+			m_sistemTantangan.dataTantangan[duniaSekarang - 1].listTantanganDunia[levelSekarang - 1].isSelesai = true;
+	}
+
+	public void ResetLevel()
+	{
+		int scene = SceneManager.GetActiveScene().buildIndex;
+		SceneManager.LoadScene(scene);
+	}
+}
+
+[System.Serializable]
+public class KondisiTantangan
+{
+	public bool isTdkMati, isKenaHit, isBossKalah;
+}

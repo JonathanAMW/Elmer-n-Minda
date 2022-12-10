@@ -1,0 +1,4 @@
+repository "Template WPG@wichdanbawariq@cloud"
+  path "/"
+    br "/main"
+    co "/main"

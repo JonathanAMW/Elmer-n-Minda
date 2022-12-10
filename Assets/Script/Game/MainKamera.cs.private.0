@@ -1,0 +1,13 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class MainKamera : MonoBehaviour
+{
+	[SerializeField] GameObject pemain;
+
+	private void LateUpdate()
+	{
+		transform.position = new Vector3(pemain.transform.position.x, pemain.transform.position.y, transform.position.z);
+	}
+}

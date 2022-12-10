@@ -1,0 +1,106 @@
+using System.Collections;
+using System.Collections.Generic;
+using TMPro;
+using UnityEngine;
+
+public class SistemUpgrades : MonoBehaviour
+{
+	[Header("Harga Item")]
+	[SerializeField] int hargaDarah;
+	[SerializeField] int hargaZirah, hargaSerangan;
+
+	[Header("Harga Bintang Item")]
+	[SerializeField] int bintangDarah;
+	[SerializeField] int bintangZirah, bintangSerangan;
+
+	[Header("Total Pembelian")]
+	[SerializeField] int totalBeliDarah;
+	[SerializeField] int totalBeliZirah, totalBeliSerangan;
+
+	[Header("Indikator Pembelian")]
+	[SerializeField] GameObject[] indikatorDarah;
+	[SerializeField] GameObject[] indikatorZirah, indikatorSerangan;
+
+	string namaBeli;
+	[SerializeField] int temp;
+	[Header("Referensi")]
+	[SerializeField] TextMeshProUGUI hargaBintangTeks;
+	[SerializeField] TextMeshProUGUI hargaKoinTeks, koinTeks, bintangTeks;
+
+	Inventaris inventaris;
+	CharStat karakterStat;
+
+	private void Start()
+	{
+		
+		karakterStat = GameObject.Find("StatPemain").GetComponent<CharStat>();
+		TampilInventaris();
+	}
+
+	public void Tampil(string nama)
+	{
+		namaBeli = nama;
+		if(nama == "Darah")
+		{
+			hargaKoinTeks.text = hargaDarah.ToString();
+			hargaBintangTeks.text = bintangDarah.ToString();
+		}
+		else if (nama == "Zirah")
+		{
+			hargaKoinTeks.text = hargaZirah.ToString();
+			hargaBintangTeks.text = bintangZirah.ToString();
+		}
+		else if (nama == "Serangan")
+		{
+			hargaKoinTeks.text = hargaSerangan.ToString();
+			hargaBintangTeks.text = bintangSerangan.ToString();
+		}
+	}
+
+	public void Upgrade()
+	{
+		if (inventaris.koin <= 0 && inventaris.bintang <= 0) return;
+		if(namaBeli == "Darah")
+		{
+			Pembelian(ref hargaDarah, ref bintangDarah, ref hargaKoinTeks, ref hargaBintangTeks, ref totalBeliDarah, ref indikatorDarah);
+			karakterStat.darahMaks += totalBeliDarah;
+		}
+		else if(namaBeli == "Zirah")
+		{
+			Pembelian(ref hargaZirah, ref bintangZirah, ref hargaKoinTeks, ref hargaBintangTeks, ref totalBeliZirah, ref indikatorZirah);
+			karakterStat.zirahMaks += totalBeliZirah;
+		}
+		else if(namaBeli == "Serangan")
+		{
+			Pembelian(ref hargaSerangan, ref bintangSerangan, ref hargaKoinTeks, ref hargaBintangTeks, ref totalBeliSerangan, ref indikatorSerangan);
+			karakterStat.serangan += totalBeliSerangan;
+		}
+	}
+
+	public void Pembelian(ref int harga, ref int bintang, ref TextMeshProUGUI hargaTeks, ref TextMeshProUGUI bintangTeks, ref int indikator ,ref GameObject[] gmbrIndikator)
+	{
+		if (harga > 4000)
+			harga = 4000;
+
+		if (bintang > 4)
+			bintang = 4;
+
+		inventaris.koin -= harga;
+
+		harga += 1000;
+		bintang += 1;
+		hargaTeks.text = harga.ToString();
+		bintangTeks.text = bintang.ToString();
+
+		if (indikator > 4) return;
+		gmbrIndikator[indikator].SetActive(true);
+		indikator++;
+		TampilInventaris();
+	}
+
+	void TampilInventaris()
+	{
+		koinTeks.text = " x " + inventaris.koin.ToString();
+		bintangTeks.text = " x " + inventaris.bintang.ToString();
+	}
+}
